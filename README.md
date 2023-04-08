@@ -1,11 +1,11 @@
-<h1 align="center"> Corrigindo Bugs (1)</h1>
+<h1 align="center"> Fixing Bugs (1)</h1>
 
-<p align="center">Desafio feito pela equipe de instrutores da Rocketseat para o curso EXPLORER, para maior entendimento sobre HTML e CSS<br/>
+<p align="center">Challenge made by the team of instructors at Rocketseat for the EXPLORER, for a better understanding of HTML e CSS<br/>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-License">License</a>
 </p>
 
 <p align="center">
@@ -15,31 +15,31 @@
 <br>
 
 <p align="center">
-  <img alt=" Corrigindo Bugs (1)" src=".github\README 1.bmp" width="100%">
+  <img alt="Fixing Bugs (1)" src=".github\README 1.bmp" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - HTML e CSS
 - Figma
 
-## 💻 Projeto
+## 💻 Project
 
-O Corrigindo Bugs (1) foi desenvolvido para estudar e aplicar todo conteudo sobre html e css apresentado no Nivel 1 do curso Explorer da Rocketseat. Entre os temas mais presentes estão:
+The Fixing Bugs (1) was developed to study and apply all content about html and css presented in Level 1 of Rocketseat's Explorer. Among the most common themes are:
 
-- Estrutura de dados no HTML
-- Estilizando com CSS
-- Apresentação e posição dos elementos na tela
-- Trabalhando com imagens e SVG 
+- Data structure in HTML
+- Styling with CSS
+- Presentation and position of elements on the screen
+- Working with images and SVG
 
-## 🗒️ Licença
+## 🗒️ License
 
-Esse projeto está sob a licença MIT.
+This project is licensed under the MIT license.
 
 ---
 
-Feito com ♥ by Rocketseat 👋 [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Made with ♥ by Rocketseat 👋 [Participe da nossa comunidade (pt-BR)!](https://discord.gg/rocketseat)
 
 # Desafio1-Stage1-Explorer-Rocketseat
