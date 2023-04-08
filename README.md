@@ -1,6 +1,6 @@
 <h1 align="center"> Fixing Bugs (1)</h1>
 
-<p align="center">Challenge made by the team of instructors at Rocketseat for the EXPLORER, for a better understanding of HTML e CSS<br/>
+<p align="center">Challenge made by the team of instructors at Rocketseat for the EXPLORER, for a better understanding of HTML and CSS<br/>
 
 <p align="center">
   <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -22,7 +22,7 @@
 
 This project was developed with the following technologies:
 
-- HTML e CSS
+- HTML and CSS
 - Figma
 
 ## 💻 Project
